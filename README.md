@@ -30,7 +30,11 @@ employ the author :).
 
 ## ABOUT THIS RELEASE
 
-This is dnspython 1.15.0
+This is dnspython 1.15.0+at
+
+### Bugs fixed since 1.15.0:
+
+* Crash on Python 3 due to improper handling of bytes (#224, #302).
 
 ### New since 1.14.0:
 
